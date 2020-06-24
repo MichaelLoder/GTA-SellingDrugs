@@ -1,0 +1,17 @@
+C:\Users\TheGreatKingRebdog\source\repos\GTA\ESX.Test\bin\Debug\ESX.Test.net.dll
+C:\Users\TheGreatKingRebdog\source\repos\GTA\ESX.Test\bin\Debug\ESX.Test.net.pdb
+C:\Users\TheGreatKingRebdog\source\repos\GTA\ESX.Test\bin\Debug\CitizenFX.Core.dll
+C:\Users\TheGreatKingRebdog\source\repos\GTA\ESX.Test\bin\Debug\GTA.Common.dll
+C:\Users\TheGreatKingRebdog\source\repos\GTA\ESX.Test\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\TheGreatKingRebdog\source\repos\GTA\ESX.Test\bin\Debug\System.Collections.Immutable.dll
+C:\Users\TheGreatKingRebdog\source\repos\GTA\ESX.Test\bin\Debug\MsgPack.dll
+C:\Users\TheGreatKingRebdog\source\repos\GTA\ESX.Test\bin\Debug\GTA.Common.pdb
+C:\Users\TheGreatKingRebdog\source\repos\GTA\ESX.Test\bin\Debug\CitizenFX.Core.pdb
+C:\Users\TheGreatKingRebdog\source\repos\GTA\ESX.Test\bin\Debug\CitizenFX.Core.xml
+C:\Users\TheGreatKingRebdog\source\repos\GTA\ESX.Test\bin\Debug\MsgPack.xml
+C:\Users\TheGreatKingRebdog\source\repos\GTA\ESX.Test\obj\Debug\ESX.Test.csprojAssemblyReference.cache
+C:\Users\TheGreatKingRebdog\source\repos\GTA\ESX.Test\obj\Debug\ESX.Test.csproj.CoreCompileInputs.cache
+C:\Users\TheGreatKingRebdog\source\repos\GTA\ESX.Test\obj\Debug\ESX.Test.csproj.CopyComplete
+C:\Users\TheGreatKingRebdog\source\repos\GTA\ESX.Test\obj\Debug\ESX.Test.net.dll
+C:\Users\TheGreatKingRebdog\source\repos\GTA\ESX.Test\obj\Debug\ESX.Test.net.pdb
+C:\Users\TheGreatKingRebdog\source\repos\GTA\ESX.Test\bin\Debug\Newtonsoft.Json.dll
